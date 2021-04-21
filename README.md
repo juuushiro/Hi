@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juuushiro&label=Profile%20views&color=0e75b6&style=flat" alt="juuushiro" /> </p>
 
-- 🔭 I’m currently working on [Nuked](XDA Project)
+- 🔭 I’m currently working on [Nuked && NFS](XDA Project)
 
 - 🌱 I’m currently learning **Junior to Senior in ZTM Family**
 
